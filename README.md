@@ -15,7 +15,6 @@ Task Master is a Flutter-based mobile application designed to help you manage yo
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - 
 ## Features
 
